@@ -29,7 +29,7 @@ function Project() {
                     </p>
                     <p className="project-description">
                         Flight Booking App was built to ease the
-                        process of booking a plane. It was my first
+                        process of booking a flight. It was my first
                         time using GraphQL, koa.js, knex.js and
                         PostgreSQL on one project. It was fun to
                         build.
